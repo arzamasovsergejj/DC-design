@@ -71,3 +71,32 @@ service_1|eth0|10.4.0.10|255.255.255.248
 service_2|eth0|10.4.0.18|255.255.255.248
 service_3|eth0|10.4.0.26|255.255.255.248
 service_4|eth0|10.4.0.34|255.255.255.248
+
+#### Конфигурация оборудования
+
+#### SW-SP1
+![img_1.png](spine_1.png)
+
+#### SW-SP2
+![img_2.png](spine_2.png)
+
+#### SW-LF1
+![img_3.png](leaf_1.png)
+
+#### SW-LF2
+![img_4.png](leaf_2.png)
+
+#### SW-LF3
+![img_5.png](SW-LF3.png)
+
+#### Node-1
+![img_6.png](Node-1.png)
+
+#### Node-2
+![img_7.png](Node-2.png)
+
+#### Node-3
+![img_8.png](Node-3.png)
+
+#### Node-4
+![img_9.png](Node-4.png)
