@@ -75,28 +75,28 @@ service_4|eth0|10.4.0.34|255.255.255.248
 #### Конфигурация оборудования
 
 #### spine_1
-![img_1.png](spine_1.png)
+![spine_1.png](spine_1.png)
 
 #### spine_2
-![img_2.png](spine_2.png)
+![spine_2.png](spine_2.png)
 
 #### leaf_1
-![img_3.png](leaf_1.png)
+![leaf_1.png](leaf_1.png)
 
 #### leaf_2
-![img_4.png](leaf_2.png)
+![leaf_2.png](leaf_2.png)
 
 #### leaf_3
-![img_5.png](leaf_3.png)
+![leaf_3.png](leaf_3.png)
 
 #### service_1
-![img_6.png](service_1.png)
+![service_1.png](service_1.png)
 
 #### service_2
-![img_7.png](service_2.png)
+![service_2.png](service_2.png)
 
 #### service_3
-![img_8.png](service_3.png)
+![service_3.png](service_3.png)
 
 #### service_4
-![img_9.png](service_4.png)
+![service_4.png](service_4.png)
