@@ -101,6 +101,8 @@ Codes: C - connected, S - static, K - kernel,
  O        10.4.0.24/29 [110/20] via 10.2.1.5, Ethernet3
  O        10.4.0.32/29 [110/20] via 10.2.1.5, Ethernet3
 ```
+
+<details>
 <summary> Spine_1 </summary>
   
 ```
