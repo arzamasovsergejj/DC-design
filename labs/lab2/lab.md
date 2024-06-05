@@ -104,6 +104,7 @@ Codes: C - connected, S - static, K - kernel,
 
 </details>
 
+<details>
 <summary> Spine_2 </summary>
   
 ```
